@@ -795,7 +795,7 @@ New and Updated Drivers
 - The `SerialDriver` now supports using plain TCP instead of RFC 2217, which is
   needed from some console servers.
 - The `ShellDriver` has been improved:
-  
+
   - It supports configuring the various timeouts used during the login process.
   - It can use xmodem to transfer file from and to the target.
 
